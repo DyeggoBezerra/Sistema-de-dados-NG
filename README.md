@@ -1,17 +1,9 @@
 ## Oiii! Eu sou o Dyeggo Bezerra 
-<style>
-    .h{
-        left: 30%;
-    }
-    .tec{
 
-    }
-</style>
  <div>
   <a href="https://github.com/DyeggoBezerra">
   <img class="tec" height="180em" src="https://github-readme-stats.vercel.app/api?username=DyeggoBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeggoBezerra&layout=compact&langs_count=8&theme=dracula"/>
-  <img class="h" alt="Rafa-yoda" height="50" width="50" src="icon/icon.ico">
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="DyJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
